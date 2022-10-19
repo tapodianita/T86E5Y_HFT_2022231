@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "T86E5Y_HFT_2022231.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "T86E5Y_HFT_2022231.Models/1.0.0": {
+      "type": "project",
+      "path": "../T86E5Y_HFT_2022231.Models/T86E5Y_HFT_2022231.Models.csproj",
+      "msbuildProject": "../T86E5Y_HFT_2022231.Models/T86E5Y_HFT_2022231.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "T86E5Y_HFT_2022231.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tapod\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
+              "projectPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

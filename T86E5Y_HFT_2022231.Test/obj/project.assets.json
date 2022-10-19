@@ -1,11 +1,69 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "T86E5Y_HFT_2022231.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "T86E5Y_HFT_2022231.Models": "1.0.0",
+          "T86E5Y_HFT_2022231.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Logic.dll": {}
+        }
+      },
+      "T86E5Y_HFT_2022231.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Models.dll": {}
+        }
+      },
+      "T86E5Y_HFT_2022231.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "T86E5Y_HFT_2022231.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T86E5Y_HFT_2022231.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "T86E5Y_HFT_2022231.Logic/1.0.0": {
+      "type": "project",
+      "path": "../T86E5Y_HFT_2022231.Logic/T86E5Y_HFT_2022231.Logic.csproj",
+      "msbuildProject": "../T86E5Y_HFT_2022231.Logic/T86E5Y_HFT_2022231.Logic.csproj"
+    },
+    "T86E5Y_HFT_2022231.Models/1.0.0": {
+      "type": "project",
+      "path": "../T86E5Y_HFT_2022231.Models/T86E5Y_HFT_2022231.Models.csproj",
+      "msbuildProject": "../T86E5Y_HFT_2022231.Models/T86E5Y_HFT_2022231.Models.csproj"
+    },
+    "T86E5Y_HFT_2022231.Repository/1.0.0": {
+      "type": "project",
+      "path": "../T86E5Y_HFT_2022231.Repository/T86E5Y_HFT_2022231.Repository.csproj",
+      "msbuildProject": "../T86E5Y_HFT_2022231.Repository/T86E5Y_HFT_2022231.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "T86E5Y_HFT_2022231.Logic >= 1.0.0",
+      "T86E5Y_HFT_2022231.Models >= 1.0.0",
+      "T86E5Y_HFT_2022231.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tapod\\.nuget\\packages\\": {}
@@ -33,7 +91,17 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj": {
+              "projectPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj"
+            },
+            "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
+              "projectPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj"
+            },
+            "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj": {
+              "projectPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
