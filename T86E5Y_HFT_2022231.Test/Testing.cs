@@ -51,5 +51,99 @@ namespace T86E5Y_HFT_2022231.Test
           .AsQueryable());
       airplaneLogic = new AirplaneLogic(mockAirplaneRepo.Object);
     }
+    [Test]
+    public void TestAirLineCreate()
+    {
+      var testairline = new Airline() { Name = "Szuper Bt." };
+
+      airlineLogic.Create(testairline);
+
+      mockAirlineRepo.Verify(x => x.Create(testairline), Times.Once);
+    }
+    [Test]
+    public void TestManufactureCreateFail()
+    {
+      var manufacture = new Manufacturer() { Id = -10 };
+      Assert.Throws<Exception>(() =>
+      {
+        manufacturerLogic.Create(manufacture);
+      });
+      mockManufacturerRepo.Verify(x => x.Create(manufacture), Times.Never);
+    }
+    [Test]
+    public void TestPlaneCreateFail()
+    {
+      var airplane = new Airplane();
+      Assert.Throws<Exception>(() =>
+      {
+        airplaneLogic.Create(airplane);
+      });
+      mockAirplaneRepo.Verify(x => x.Create(airplane), Times.Never);
+    }
+    [Test]
+    public void BusinessFlightsTest()
+    {
+      var datas = airlineLogic.BusinessFlights();
+
+      Assert.That(datas.Count() == 1);
+      Assert.AreEqual(datas.First().Name, "Wizz Air");
+    }
+    [Test]
+    public void AirplaneAirlines()
+    {
+      var datas = airlineLogic.AirplaneAirlines();
+
+
+      Assert.That(datas.Count() == 1);
+      Assert.AreEqual(datas.First().AirlineName, "Wizz Air");
+      Assert.AreEqual(datas.First().AirPlanes.Count(), 3);
+    }
+    [Test]
+    public void ManufacturerByYearStatics()
+    {
+      var datas = airplaneLogic.ManufacturerByYearStatics();
+
+      Assert.That(datas.First().Year == 1988);
+      Assert.That(datas.First().ManufacturerCount == 1);
+    }
+    [Test]
+    public void GetPlaneByManufacturerStaticsTest()
+    {
+      var data = manufacturerLogic.GetPlaneByManufacturer().First();
+
+      Assert.AreEqual(data.AvgToAllPlanePercent, 100);
+      Assert.AreEqual(data.AllPlane, 3);
+      Assert.AreEqual(data.Manufacturer.Name, "Boeing");
+
+    }
+    [Test]
+    public void ManufacturerByYearStaticsTest()
+    {
+      Assert.DoesNotThrow(() => {
+        var data = manufacturerLogic.ManufacturerAllAirPlineStatics("Boeing");
+        Assert.That(data.Count() == 3);
+      });
+
+    }
+    [Test]
+    public void UpdateAirline()
+    {
+      var airline = airlineLogic.ReadAll().FirstOrDefault(x => x.Id == 1);
+      airline.Name = "Tested";
+      Assert.DoesNotThrow(() => {
+        airlineLogic.Update(airline);
+      });
+      mockAirlineRepo.Verify(x => x.Update(airline), Times.Once);
+    }
+    [Test]
+    public void UpdateManufacturer()
+    {
+      var manufact = manufacturerLogic.ReadAll().FirstOrDefault(x => x.Id == 1);
+      manufact.Name = "as";
+      Assert.Throws<Exception>(() => {
+        manufacturerLogic.Update(manufact);
+      });
+      mockManufacturerRepo.Verify(x => x.Update(manufact), Times.Never);
+    }
   }
 }
