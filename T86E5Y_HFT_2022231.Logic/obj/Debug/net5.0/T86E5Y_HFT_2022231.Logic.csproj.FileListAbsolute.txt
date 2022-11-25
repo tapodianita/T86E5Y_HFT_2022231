@@ -15,3 +15,5 @@ C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\ref\T86E5Y_HFT_2022231.Logic.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\AirplaneDb.mdf
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\AirplaneDb_log.ldf
