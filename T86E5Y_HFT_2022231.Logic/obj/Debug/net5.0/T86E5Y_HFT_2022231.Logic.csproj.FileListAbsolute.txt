@@ -1,0 +1,17 @@
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Logic.deps.json
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Logic.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\ref\T86E5Y_HFT_2022231.Logic.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Logic.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Repository.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\bin\Debug\net5.0\T86E5Y_HFT_2022231.Repository.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.csproj.AssemblyReference.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.AssemblyInfoInputs.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.AssemblyInfo.cs
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.csproj.CoreCompileInputs.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.csproj.CopyComplete
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\ref\T86E5Y_HFT_2022231.Logic.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Logic\obj\Debug\net5.0\T86E5Y_HFT_2022231.Logic.pdb
