@@ -14,6 +14,8 @@ namespace T86E5Y_HFT_2022231.Logic.Interfaces
     void Delete(int id);
     Airline Read(int id);
     IQueryable<Airline> ReadAll();
-    void Update(Airline item);
+    void Update(Airline item); 
+    IEnumerable<Airline> BusinessFlights();
+    IEnumerable<PlaneInAirlineInfo> AirplaneAirlines();
   }
 }

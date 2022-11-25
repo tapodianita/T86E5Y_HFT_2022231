@@ -47,7 +47,20 @@ namespace T86E5Y_HFT_2022231.Logic.Classes
 
       this.repo.Update(item);
     }
-
-
+    public IEnumerable<Airline> BusinessFlights()
+    {
+      var data = this.repo.ReadAll().Where(p => p.HasBusinessClass);
+      return data;
+    }
+    public IEnumerable<PlaneInAirlineInfo> AirplaneAirlines()
+    {
+      var data = this.repo.ReadAll()
+          .Select(x => new PlaneInAirlineInfo
+          {
+            AirlineName = x.Name,
+            AirPlanes = x.Airplanes
+          });
+      return data;
+    }
   }
 }
