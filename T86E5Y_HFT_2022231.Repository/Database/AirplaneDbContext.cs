@@ -8,14 +8,14 @@ using T86E5Y_HFT_2022231.Models.Entities;
 
 namespace T86E5Y_HFT_2022231.Repository.Database
 {
-  public class AirPlaneDbContext : DbContext
+  public class AirplaneDbContext : DbContext
   {
     public virtual DbSet<Airplane> AirPlanes { get; set; }
     public virtual DbSet<Airline> Airlines { get; set; }
     public virtual DbSet<Flights> Flight { get; set; }
     public virtual DbSet<Manufacturer> Manufacturers { get; set; }
 
-    public AirPlaneDbContext()
+    public AirplaneDbContext()
     {
       this.Database.EnsureCreated();
     }

@@ -10,9 +10,9 @@ namespace T86E5Y_HFT_2022231.Repository.GenericRepository
 {
   public abstract class Repository<T> : IRepository<T> where T : class
   {
-    protected AirPlaneDbContext ctx;
+    protected AirplaneDbContext ctx;
 
-    protected Repository(AirPlaneDbContext ctx)
+    protected Repository(AirplaneDbContext ctx)
     {
       this.ctx = ctx;
     }
