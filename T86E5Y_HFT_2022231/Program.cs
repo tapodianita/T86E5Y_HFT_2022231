@@ -9,7 +9,7 @@ namespace T86E5Y_HFT_2022231
   {
     static void Main(string[] args)
     {
-      RestService rest = new RestService("http://localhost:54481/");
+      RestService rest = new RestService("http://localhost:33356/");
       CrudService crud = new CrudService(rest);
       NonCrudService nonCrud = new NonCrudService(rest);
 
