@@ -15,7 +15,6 @@ namespace T86E5Y_HFT_2022231.Logic.Interfaces
     Manufacturer Read(int id);
     IQueryable<Manufacturer> ReadAll();
     void Update(Manufacturer item);
-    IEnumerable<ManufacturerPlaneInfo> GetPlaneByManufacturer();
-    IEnumerable<Airplane> ManufacturerAllAirPlineStatics(string manufacturer);
+  
   }
 }

@@ -15,6 +15,5 @@ namespace T86E5Y_HFT_2022231.Logic.Interfaces
     Airplane Read(int id);
     IQueryable<Airplane> ReadAll();
     void Update(Airplane item);
-    IEnumerable<ManufacturerByYearInfo> ManufacturerByYearStatics();
   }
 }
