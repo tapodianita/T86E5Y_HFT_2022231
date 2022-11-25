@@ -13,8 +13,6 @@ C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\obj\Debu
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\obj\Debug\net5.0\T86E5Y_HFT_2022231.Repository.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\obj\Debug\net5.0\ref\T86E5Y_HFT_2022231.Repository.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\obj\Debug\net5.0\T86E5Y_HFT_2022231.Repository.pdb
-C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\bin\Debug\net5.0\AirplaneDb.mdf
-C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\bin\Debug\net5.0\AirplaneDb_log.ldf
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\bin\Debug\net5.0\T86E5Y_HFT_2022231.Repository.runtimeconfig.json
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\bin\Debug\net5.0\T86E5Y_HFT_2022231.Repository.runtimeconfig.dev.json
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Repository\obj\Debug\net5.0\T86E5Y_HFT_2022231.Repository.genruntimeconfig.cache

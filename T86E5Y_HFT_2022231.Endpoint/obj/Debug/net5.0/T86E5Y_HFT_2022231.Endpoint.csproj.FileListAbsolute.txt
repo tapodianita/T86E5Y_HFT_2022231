@@ -28,8 +28,6 @@ C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\obj\Debug\
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\obj\Debug\net5.0\ref\T86E5Y_HFT_2022231.Endpoint.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\obj\Debug\net5.0\T86E5Y_HFT_2022231.Endpoint.pdb
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\obj\Debug\net5.0\T86E5Y_HFT_2022231.Endpoint.genruntimeconfig.cache
-C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\bin\Debug\net5.0\AirplaneDb.mdf
-C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\bin\Debug\net5.0\AirplaneDb_log.ldf
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
