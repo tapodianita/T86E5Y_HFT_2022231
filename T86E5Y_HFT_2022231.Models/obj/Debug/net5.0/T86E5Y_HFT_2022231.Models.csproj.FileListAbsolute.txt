@@ -1,0 +1,12 @@
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.deps.json
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\bin\Debug\net5.0\ref\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.csproj.AssemblyReference.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.AssemblyInfoInputs.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.AssemblyInfo.cs
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.csproj.CoreCompileInputs.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\ref\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231.Models\obj\Debug\net5.0\T86E5Y_HFT_2022231.Models.pdb

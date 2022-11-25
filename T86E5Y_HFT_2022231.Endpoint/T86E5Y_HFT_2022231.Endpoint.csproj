@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\T86E5Y_HFT_2022231.Logic\T86E5Y_HFT_2022231.Logic.csproj" />
+    <ProjectReference Include="..\T86E5Y_HFT_2022231.Models\T86E5Y_HFT_2022231.Models.csproj" />
+    <ProjectReference Include="..\T86E5Y_HFT_2022231.Repository\T86E5Y_HFT_2022231.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

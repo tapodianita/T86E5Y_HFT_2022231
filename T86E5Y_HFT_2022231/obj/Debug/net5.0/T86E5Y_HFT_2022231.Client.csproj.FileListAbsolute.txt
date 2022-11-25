@@ -14,3 +14,6 @@ C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\obj\Debug\net5.0\re
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\obj\Debug\net5.0\T86E5Y_HFT_2022231.Client.pdb
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\obj\Debug\net5.0\T86E5Y_HFT_2022231.Client.genruntimeconfig.cache
 C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\obj\Debug\net5.0\T86E5Y_HFT_2022231.Client.csproj.AssemblyReference.cache
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.dll
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\bin\Debug\net5.0\T86E5Y_HFT_2022231.Models.pdb
+C:\Users\tapod\Desktop\T86E5Y_HFT_2022231\T86E5Y_HFT_2022231\obj\Debug\net5.0\T86E5Y_HFT_2022231.Client.csproj.CopyComplete

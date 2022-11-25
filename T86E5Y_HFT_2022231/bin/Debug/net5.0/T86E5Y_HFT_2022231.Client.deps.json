@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "T86E5Y_HFT_2022231.Client/1.0.0": {
+        "dependencies": {
+          "T86E5Y_HFT_2022231.Models": "1.0.0"
+        },
         "runtime": {
           "T86E5Y_HFT_2022231.Client.dll": {}
+        }
+      },
+      "T86E5Y_HFT_2022231.Models/1.0.0": {
+        "runtime": {
+          "T86E5Y_HFT_2022231.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "T86E5Y_HFT_2022231.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "T86E5Y_HFT_2022231.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
