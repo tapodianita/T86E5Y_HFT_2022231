@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {}
+    "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
+    "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj",
+        "projectUniqueName": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj",
         "projectName": "T86E5Y_HFT_2022231.Models",
-        "projectPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj",
+        "projectPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj",
         "packagesPath": "C:\\Users\\tapod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\obj\\",
+        "outputPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tapod\\AppData\\Roaming\\NuGet\\NuGet.Config",

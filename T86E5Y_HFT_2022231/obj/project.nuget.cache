@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SNZ3Pknqv7bCDXU36VamjcUtddBvpEtk+59P/6tsTou7md1CZvet7Tlu498XfM4iTBiSrBc2xWqexmg9EBWrg==",
+  "dgSpecHash": "Z/YADfiYWzA6xOmqKQC0gMf15Svh4ZGVevFyrBnO8N/diTRNRK5MOcp/JagxTrNW9k8TRTeYt/8lLInlbHJ6GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Client.csproj",
+  "projectFilePath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapod\\.nuget\\packages\\consolemenu-simple\\2.4.3\\consolemenu-simple.2.4.3.nupkg.sha512",
     "C:\\Users\\tapod\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

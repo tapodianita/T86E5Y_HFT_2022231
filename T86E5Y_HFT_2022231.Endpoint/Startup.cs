@@ -1,8 +1,8 @@
-using Castle.Core.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
@@ -17,7 +17,7 @@ using T86E5Y_HFT_2022231.Repository.Database;
 using T86E5Y_HFT_2022231.Repository.Interfaces;
 using T86E5Y_HFT_2022231.Repository.ModelRepositories;
 
-namespace T86E5Y_HFT_2022231.Endpoint
+namespace T86E5Y_HFT_2022231.Endpoint1
 {
   public class Startup
   {
@@ -45,7 +45,7 @@ namespace T86E5Y_HFT_2022231.Endpoint
       services.AddControllers();
       services.AddSwaggerGen(c =>
       {
-        c.SwaggerDoc("v1", new OpenApiInfo { Title = "T86E5Y_HFT_2022231.Endpoint", Version = "v1" });
+        c.SwaggerDoc("v1", new OpenApiInfo { Title = "starter.Endpoint", Version = "v1" });
       });
     }
 
@@ -56,7 +56,7 @@ namespace T86E5Y_HFT_2022231.Endpoint
       {
         app.UseDeveloperExceptionPage();
         app.UseSwagger();
-        app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "T86E5Y_HFT_2022231.Endpoint v1"));
+        app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "starter.Endpoint v1"));
       }
       app.UseExceptionHandler(c => c.Run(async context =>
       {

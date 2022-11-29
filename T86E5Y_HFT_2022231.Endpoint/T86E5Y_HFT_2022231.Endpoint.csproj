@@ -4,9 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-	<ItemGroup>
-		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
-	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\T86E5Y_HFT_2022231.Logic\T86E5Y_HFT_2022231.Logic.csproj" />
     <ProjectReference Include="..\T86E5Y_HFT_2022231.Models\T86E5Y_HFT_2022231.Models.csproj" />

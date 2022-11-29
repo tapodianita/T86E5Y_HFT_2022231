@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ekCfNK5Vwh0XD/NGM508FD65lDAOTmPjdDxMX+xLg4DL2YNGBmrHwzlP0xFM/M4QjcUPB4lTZCVrCK7xiKfFcA==",
+  "dgSpecHash": "bKNngoc+0bxo6bDxbG1egii/CM5CFA29F5lCr70BsfSEZbLYQBlt5seEjhB2EUfhzd8LuyAxeI8ABW59PASpkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
+  "projectFilePath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapod\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\tapod\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y92No3EofaNAL8zIUDxD7i1/MJUOa92c7gUGs8gBCbln8ufGBvKqwHZ66aPqzBVpu10kFfQKXcv/pcTczwurzg==",
+  "dgSpecHash": "yzzZpUkemB1EQnoTJt5UQYLImQI1Pwe7dFE/7CyMsqAtFjd0U6gASScaJFYjkvNlP6RxepHMaFowvjRU5txddw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tapod\\Desktop\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Endpoint\\T86E5Y_HFT_2022231.Endpoint.csproj",
+  "projectFilePath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Endpoint\\T86E5Y_HFT_2022231.Endpoint.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapod\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\tapod\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
