@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using T86E5Y_HFT_2022231.Logic.Classes;
 using T86E5Y_HFT_2022231.Logic.Interfaces;
+using T86E5Y_HFT_2022231.Models.DTOs;
 using T86E5Y_HFT_2022231.Models.Entities;
 using T86E5Y_HFT_2022231.Repository.Interfaces;
 
@@ -96,7 +97,7 @@ namespace T86E5Y_HFT_2022231.Test
 
       Assert.That(datas.Count() == 1);
       Assert.AreEqual(datas.First().AirlineName, "Wizz Air");
-      Assert.AreEqual(datas.First().AirPlanes.Count(), 3);
+      Assert.AreEqual(datas.First().AirPlanesCount, 3);
     }
     [Test]
     public void ManufacturerByYearStatics()
@@ -110,10 +111,16 @@ namespace T86E5Y_HFT_2022231.Test
     public void GetPlaneByManufacturerStaticsTest()
     {
       var data = manufacturerLogic.GetPlaneByManufacturer().First();
+      var neededResult = new ManufacturerPlaneInfo()
+      {
+        AllPlane = 3,
+        AvgToAllPlanePercent = 100,
+        Manufacturer = new Manufacturer() { Name = "Boeing" }
+      };
 
-      Assert.AreEqual(data.AvgToAllPlanePercent, 100);
-      Assert.AreEqual(data.AllPlane, 3);
-      Assert.AreEqual(data.Manufacturer.Name, "Boeing");
+      Assert.AreEqual(data.AvgToAllPlanePercent, neededResult.AvgToAllPlanePercent);
+      Assert.AreEqual(data.AllPlane, neededResult.AllPlane);
+      Assert.AreEqual(data.Manufacturer.Name, neededResult.Manufacturer.Name);
 
     }
     [Test]

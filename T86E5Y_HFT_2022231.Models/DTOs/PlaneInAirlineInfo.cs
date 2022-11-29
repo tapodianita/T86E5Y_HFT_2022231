@@ -10,12 +10,10 @@ namespace T86E5Y_HFT_2022231.Models.DTOs
   public class PlaneInAirlineInfo
   {
     public string AirlineName { get; set; }
-    public IEnumerable<Airplane> AirPlanes { get; set; }
+    public int AirPlanesCount { get; set; }
     public override string ToString()
     {
-      string text = "";
-      AirPlanes.ToList().ForEach(szoveg => text += szoveg + ",");
-      return $"AirlineName = {AirlineName}, AirPlanes = {text}";
+      return $"AirlineName = {AirlineName}, AirPlanesCount = {AirPlanesCount}";
     }
   }
 }

@@ -58,7 +58,7 @@ namespace T86E5Y_HFT_2022231.Logic.Classes
           .Select(x => new PlaneInAirlineInfo
           {
             AirlineName = x.Name,
-            AirPlanes = x.Airplanes
+            AirPlanesCount = x.Airplanes.Count()
           });
       return data;
     }
