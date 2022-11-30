@@ -7415,11 +7415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
+      "projectUniqueName": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
       "projectName": "T86E5Y_HFT_2022231.Logic",
-      "projectPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
+      "projectPath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\T86E5Y_HFT_2022231.Logic.csproj",
       "packagesPath": "C:\\Users\\tapod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\obj\\",
+      "outputPath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tapod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7436,11 +7436,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
-              "projectPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj"
+            "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj": {
+              "projectPath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Models\\T86E5Y_HFT_2022231.Models.csproj"
             },
-            "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj": {
-              "projectPath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj"
+            "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj": {
+              "projectPath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj"
             }
           }
         }

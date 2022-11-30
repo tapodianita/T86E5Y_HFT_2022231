@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2TeMp/5hjmh5x75APyKYo7PfHNNKvlQ6OtT4jj9hwkgqG3WKu38uU7BLdtOyrlEgIYr0EueZNaCEKgJeFxCKag==",
+  "dgSpecHash": "2D9QXbZDi+C0ymgRg3jqQgeQbhTnIhPaMdKylXQfWhzks3wf/W2xulSOnlK4/9o2veBBEAbACx1PQS0b2r6FqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tapod\\Source\\Repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj",
+  "projectFilePath": "C:\\Users\\tapod\\source\\repos\\T86E5Y_HFT_2022231\\T86E5Y_HFT_2022231.Repository\\T86E5Y_HFT_2022231.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapod\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\tapod\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

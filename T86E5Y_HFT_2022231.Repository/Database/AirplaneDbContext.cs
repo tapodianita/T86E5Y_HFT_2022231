@@ -102,6 +102,12 @@ namespace T86E5Y_HFT_2022231.Repository.Database
                             new Flights("9#2#2"),
                             new Flights("10#3#5"),
                             new Flights("11#13#3"),
+                            new Flights("12#4#4"),
+                            new Flights("13#12#8"),
+                            new Flights("14#3#9"),
+                            new Flights("15#7#10"),
+                            new Flights("16#2#14"),
+                            new Flights("17#9#11"),
       });
 
     }
